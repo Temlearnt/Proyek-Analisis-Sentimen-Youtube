@@ -1,8 +1,5 @@
-Berikut file **README.md lengkap** yang sudah rapi, profesional, dan siap langsung kamu copy-paste ke repo GitHub 👇
 
----
 
-```markdown
 # 🎯 Analisis Sentimen Komentar YouTube Menggunakan Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -11,7 +8,7 @@ Berikut file **README.md lengkap** yang sudah rapi, profesional, dan siap langsu
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dicoding](https://img.shields.io/badge/Dicoding-Submission-purple.svg)](https://www.dicoding.com/)
 
----
+
 
 ## 📌 Ringkasan Proyek
 
@@ -328,9 +325,9 @@ def predict_sentiment(text, model):
 
 ## 📞 Kontak
 
-* Email: [sutha.satyawan@example.com](mailto:sutha.satyawan@example.com)
-* GitHub: [https://github.com/suthasatyawan](https://github.com/suthasatyawan)
-* LinkedIn: [https://linkedin.com/in/i-putu-sutha-satyawan](https://linkedin.com/in/i-putu-sutha-satyawan)
+* Email: [putusuthasatyawan@gmail.com](mailto:putusuthasatyawan@gmail.com)
+* GitHub: [https://github.com/Temlearnt](https://github.com/Temlearnt)
+* LinkedIn: [https://www.linkedin.com/in/i-putu-sutha-satyawan-917968289/](https://www.linkedin.com/in/i-putu-sutha-satyawan-917968289/)
 
 ---
 
