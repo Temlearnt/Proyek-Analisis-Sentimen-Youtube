@@ -64,7 +64,7 @@ Proyek ini bertujuan untuk mengklasifikasikan **sentimen komentar YouTube** ke d
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/analisis-sentimen-youtube.git
+git clone https://github.com/Temlearnt/Proyek-Analisis-Sentimen-Youtube.git
 cd analisis-sentimen-youtube
 ````
 
